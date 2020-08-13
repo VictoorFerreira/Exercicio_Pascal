@@ -12,8 +12,9 @@ programa ParOuImpar
 		escreva("O numero é: " + n, "\n")
 		se(n % 2 == 0){
 			escreva("PAR")
-		}senao
+		}senao{
 			escreva("IMPAR")
+		}
 	}
 }
 /* $$$ Portugol Studio $$$ 
